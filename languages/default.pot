@@ -1,0 +1,116 @@
+# Copyright (C) 2022 Bili Plugins
+# This file is distributed under the same license as the ActiveCampaign Newsletter Subscription package.
+msgid ""
+msgstr ""
+"Project-Id-Version: ActiveCampaign Newsletter Subscription 1.0.0\n"
+"Report-Msgid-Bugs-To: "
+"https://wordpress.org/support/plugin/activecampaign-newsletter-subscription\n"
+"POT-Creation-Date: 2022-04-23 10:44:09+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2022-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: activecampaign-newsletter-subscription.php:75
+msgid "Settings"
+msgstr ""
+
+#: app/admin/class-activecampaign-newsletter-subscription-admin.php:45
+#: app/admin/class-activecampaign-newsletter-subscription-admin.php:46
+msgid "Newsletter Subscription"
+msgstr ""
+
+#: app/admin/class-activecampaign-newsletter-subscription-admin.php:63
+msgid "Activecampaign Newsletter Subscription."
+msgstr ""
+
+#: app/admin/class-activecampaign-newsletter-subscription-admin.php:71
+msgid "Enter Your ActiveCampaign API URL"
+msgstr ""
+
+#: app/admin/class-activecampaign-newsletter-subscription-admin.php:75
+msgid "https://youraccountname.api-us1.com"
+msgstr ""
+
+#: app/admin/class-activecampaign-newsletter-subscription-admin.php:77
+msgid "Enter ActiveCapmpaign API URL Here. Don't know What's this?"
+msgstr ""
+
+#: app/admin/class-activecampaign-newsletter-subscription-admin.php:78
+#: app/admin/class-activecampaign-newsletter-subscription-admin.php:91
+#: app/admin/class-activecampaign-newsletter-subscription-admin.php:104
+#: app/admin/class-activecampaign-newsletter-subscription-admin.php:117
+msgid "Click Here"
+msgstr ""
+
+#: app/admin/class-activecampaign-newsletter-subscription-admin.php:84
+msgid "Enter Your ActiveCampaign API Key"
+msgstr ""
+
+#: app/admin/class-activecampaign-newsletter-subscription-admin.php:90
+msgid "Enter ActiveCapmpaign API Key Here. Don't know What's this?"
+msgstr ""
+
+#: app/admin/class-activecampaign-newsletter-subscription-admin.php:97
+msgid "Enter List ID"
+msgstr ""
+
+#: app/admin/class-activecampaign-newsletter-subscription-admin.php:103
+msgid ""
+"Enter ActiveCapmpaign List ID Here, By Default Users will be added to "
+"\"Contacts\". Don't know What's this?"
+msgstr ""
+
+#: app/admin/class-activecampaign-newsletter-subscription-admin.php:110
+msgid "Enter Custom Text"
+msgstr ""
+
+#: app/admin/class-activecampaign-newsletter-subscription-admin.php:116
+msgid "Enter Text you Want to display on SignUp Page. Don't know What's this?"
+msgstr ""
+
+#: app/admin/class-activecampaign-newsletter-subscription-admin.php:155
+msgid "Invalid Submission"
+msgstr ""
+
+#: app/admin/class-activecampaign-newsletter-subscription-admin.php:181
+msgid "Settings Saved"
+msgstr ""
+
+#: app/main/class-activecampaign-newsletter-subscription.php:51
+msgid "Subscribe For Newsletter"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "ActiveCampaign Newsletter Subscription"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://bhargavb.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "This Plugin Used to Add User's Email to ActiveCampaign List."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Bili Plugins"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://biliplugins.com/"
+msgstr ""
